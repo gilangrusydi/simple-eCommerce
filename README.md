@@ -1,6 +1,6 @@
 # Inertia Simple E-Commerce
 
-A Simple E-Commerce build using Laravel, VueJS & Inertia
+A Simple E-Commerce flow using Laravel, VueJS & Inertia
 
 ## 📸 Preview
 
